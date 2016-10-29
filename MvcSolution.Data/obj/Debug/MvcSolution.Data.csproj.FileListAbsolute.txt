@@ -1,0 +1,16 @@
+D:\src\github\mvcsolution\MvcSolution.Data\bin\Debug\MvcSolution.Data.dll
+D:\src\github\mvcsolution\MvcSolution.Data\bin\Debug\MvcSolution.Data.pdb
+D:\src\github\mvcsolution\MvcSolution.Data\bin\Debug\EntityFramework.dll
+D:\src\github\mvcsolution\MvcSolution.Data\bin\Debug\MvcSolution.Infrastructure.dll
+D:\src\github\mvcsolution\MvcSolution.Data\bin\Debug\Newtonsoft.Json.dll
+D:\src\github\mvcsolution\MvcSolution.Data\bin\Debug\System.Web.Mvc.dll
+D:\src\github\mvcsolution\MvcSolution.Data\bin\Debug\Microsoft.Practices.Unity.dll
+D:\src\github\mvcsolution\MvcSolution.Data\bin\Debug\System.Web.Razor.dll
+D:\src\github\mvcsolution\MvcSolution.Data\bin\Debug\System.Web.WebPages.Razor.dll
+D:\src\github\mvcsolution\MvcSolution.Data\bin\Debug\System.Web.WebPages.dll
+D:\src\github\mvcsolution\MvcSolution.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\src\github\mvcsolution\MvcSolution.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\src\github\mvcsolution\MvcSolution.Data\bin\Debug\MvcSolution.Infrastructure.pdb
+D:\src\github\mvcsolution\MvcSolution.Data\obj\Debug\MvcSolution.Data.csprojResolveAssemblyReference.cache
+D:\src\github\mvcsolution\MvcSolution.Data\obj\Debug\MvcSolution.Data.dll
+D:\src\github\mvcsolution\MvcSolution.Data\obj\Debug\MvcSolution.Data.pdb

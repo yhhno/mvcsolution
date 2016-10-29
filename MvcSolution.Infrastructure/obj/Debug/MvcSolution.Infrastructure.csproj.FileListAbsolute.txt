@@ -1,0 +1,14 @@
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\bin\Debug\MvcSolution.Infrastructure.dll
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\bin\Debug\MvcSolution.Infrastructure.pdb
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\bin\Debug\EntityFramework.dll
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\bin\Debug\System.Web.Mvc.dll
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\bin\Debug\System.Web.Razor.dll
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\bin\Debug\System.Web.WebPages.Razor.dll
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\bin\Debug\System.Web.WebPages.dll
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\obj\Debug\MvcSolution.Infrastructure.csprojResolveAssemblyReference.cache
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\obj\Debug\MvcSolution.Infrastructure.dll
+D:\src\github\mvcsolution\MvcSolution.Infrastructure\obj\Debug\MvcSolution.Infrastructure.pdb
